@@ -1,1 +1,3 @@
-/* app.js */
+const productsList = document.querySelector('.products')
+
+console.log(productsList)
